@@ -3,8 +3,7 @@
 <div align=center><img width="100" height="100" src="https://github.com/irvingming11/WeChair/raw/master/WeChair.jpg?raw=true" /></div><br/><br/>
 <p align=center><font size=5>所属学院：<u>福州大学至诚学院</u></font></p>
 <p align=center><font size=5>团队名称：<u>WeChair</u></font></p>
-<p align=center><font size=5>指导老师：<u>张栋</u></font></p>
-
+<p align=center><font size=5>指导老师：<u>张栋</u></font></p><br/><br/><br><br/><br/><br/><br/><br/><br/>
 <p align=center><b><font size=7>第一章&emsp;引言</font></b></p>
 <p><font size=6><b>1.1编写目的</b></font></p>
 <p><font size=4>&emsp;&emsp;为准确描述软件定位，明确软件需求，减少开发工作以及便于软件升级和产品转移撰写本文档。本篇软件规格说明书详细描述了“WeChair”这一小程序的用户需求、软件规格等内容。方便用户深入了解该小程序。同时也是开发者进行开发、测试以及软件验收的主要依据。</font></p>
